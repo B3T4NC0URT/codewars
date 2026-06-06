@@ -9,4 +9,3 @@ if (bmi > 30) return "Obese"
 
 }
 console.log(bmi(92,1.8))
-
