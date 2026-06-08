@@ -1,4 +1,4 @@
 function check(a, x) {
   return a.includes(x) 
 };
-console.log(check([10,1], 9))
+console.log(check([10,1], ))
